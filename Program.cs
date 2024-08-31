@@ -47,7 +47,7 @@ namespace MyApp
             Console.WriteLine("The current year is {0}.", thisYear);
 
             // You can combine them this way:
-            Console.WriteLine("The given birth year is {0} and this year is {1}",
+            Console.WriteLine("The given birth year is {0} and this year is {1}.",
                 birthYear, thisYear);
 
 
